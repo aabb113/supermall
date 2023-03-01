@@ -1,5 +1,9 @@
 # supermall
 
+## 这是一个vue2的商城项目
+```
+
+```
 ## Project setup
 ```
 npm install
